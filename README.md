@@ -22,7 +22,7 @@
 ### For model training, we have taken the dataset from the kaggle.
 ### We have trained our model by doing the SENTIMENT ANALYSIS by using the Long Short Term Memory ( LSTM ) technique.
 ## Structure Of Our NLP Model :
-
+![alt text](https://drive.google.com/file/d/1TRFZOizvqucZrQZEQT9vZ_HEJloq-mr3/view?usp=sharing)
 
 
 
