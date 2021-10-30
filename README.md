@@ -1,5 +1,5 @@
 # SecuereTech
-# PS ID : INTL-DA-07
+# PSID : INTL-DA-07
 ##########################################
 
 # IDEA DESCRIPTION :
