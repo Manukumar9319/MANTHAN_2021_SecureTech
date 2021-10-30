@@ -38,9 +38,9 @@
 
 ## We will extract the data of only those users who are active in that particular region. We can get all the posts which they are posting on social media in that particular time. And then we can fetch this data to the Phase 2 model to do the Sentiment Analysis of that post. And if that posts is hateful, we can provide all the metadata related to it. For example, number of people who have liked, commented, along with the user ID, tweet URL etc.  
 
-## Video PPT link : https://drive.google.com/file/d/17VWwLwBMAv_0bxpEn7dU1OARYG-JwS-2/view
+### Video PPT link : https://drive.google.com/file/d/17VWwLwBMAv_0bxpEn7dU1OARYG-JwS-2/view
 
-## WEBAPP LINK : https://securetech.herokuapp.com/
+### WEBAPP LINK : https://securetech.herokuapp.com/
 
-## Youtube Link : https://youtu.be/zH5FS-kErLU
+### Youtube Link : https://youtu.be/zH5FS-kErLU
 
