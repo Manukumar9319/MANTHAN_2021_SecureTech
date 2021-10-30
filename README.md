@@ -1,8 +1,8 @@
-# SecuereTech
-# PSID : INTL-DA-07
+# *SecuereTech*
+# *PSID : INTL-DA-07*
 ##########################################
 
-# IDEA DESCRIPTION :
+# *IDEA DESCRIPTION* :
 
 ## We have developed our solution into two phases :
 
@@ -39,14 +39,14 @@
 
 ## After getting the data we can do the Sentiment Analysis on the dataset which is provided by the Third Party API and then after that we can get the information related to the person who are posting the hatred posts. 
 
-# MAIN IDEA :
+# *MAIN IDEA* :
 ### We are using the output of phase 1 ( i.e. the locations with high probability of crime ) as an input for phase 2.
 
 ### We will extract the data of only those users who are active in that particular region. We can get all the posts which they are posting on social media in that particular time. And then we can fetch this data to the Phase 2 model to do the Sentiment Analysis of that post. And if that posts is hateful, we can provide all the metadata related to it. For example, number of people who have liked, commented, along with the user ID, tweet URL etc.  
 
-### Video PPT link : https://drive.google.com/file/d/17VWwLwBMAv_0bxpEn7dU1OARYG-JwS-2/view
+### *[Video PPT link](https://drive.google.com/file/d/17VWwLwBMAv_0bxpEn7dU1OARYG-JwS-2/view)*
 
-### WEBAPP LINK : https://securetech.herokuapp.com/
+### *[WEBAPP LINK](https://securetech.herokuapp.com/)*
 
 ### *[Youtube Link](https://youtu.be/zH5FS-kErLU)*
 # 🥍OUR DEVELOPMENT IS STILL GOING ON.......
