@@ -49,4 +49,6 @@
 ### *[WEBAPP LINK](https://securetech.herokuapp.com/)*
 
 ### *[Youtube Link](https://youtu.be/zH5FS-kErLU)*
+
+### *[Streamlit App Full Code](https://github.com/AMANPATYAL001/crimeStream)*
 # 🥍OUR DEVELOPMENT IS STILL GOING ON.......
